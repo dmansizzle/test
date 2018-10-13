@@ -1,1 +1,7 @@
-console.log('CHEEESE')
+const hello = "hello"
+
+function test (string = 'World') {
+    return `${hello} ${string}`
+}
+
+console.log(test())
