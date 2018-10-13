@@ -7,3 +7,4 @@ function test (string = 'World') {
 console.log(test())
 
 console.log(test('cheese'))
+console.log(test('cheese'))
