@@ -5,3 +5,5 @@ function test (string = 'World') {
 }
 
 console.log(test())
+
+console.log(test('cheese'))
